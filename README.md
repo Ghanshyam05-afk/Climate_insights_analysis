@@ -6,9 +6,9 @@ This project involves the analysis of weather conditions recorded daily at vario
 
 ## Project Structure
 
-- `Summary of Weather/`: Directory containing the dataset.
-- `Climate Insights Analysis Project/`: Jupyter notebook used for data analysis and modeling.
-- `Climate Insights Analysis Project.pdf/`: Pdf file exported from Jupyter notebook used for data analysis and modeling.
+- `Summary of Weather.csv`: Directory containing the dataset.
+- `Climate Insights Analysis Project.ipynb`: Jupyter notebook used for data analysis and modeling.
+- `Climate Insights Analysis Project.pdf`: Pdf file exported from Jupyter notebook used for data analysis and modeling.
 - `README.md`: This file, providing an overview of the project.
 
 ## Usage
