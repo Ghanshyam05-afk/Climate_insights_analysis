@@ -1,4 +1,4 @@
-# Weather Conditions Analysis During World War Two
+# Climate Conditions Analysis During World War Two
 
 ## Project Overview
 
